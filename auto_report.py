@@ -1,7 +1,4 @@
 """CSV Auto-Report Generator
-Cleans a raw CSV, runs exploratory data analysis, and writes an HTML report
-with visualizations.
-
 Usage:
     python auto_report.py data.csv
     python auto_report.py data.csv --out report.html --target price
